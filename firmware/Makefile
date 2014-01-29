@@ -17,7 +17,7 @@
 #                   default_serial = "avrdoper"
 # FUSES ........ Parameters for avrdude to flash the fuses appropriately.
 
-DEVICE     = atmega168pa
+DEVICE     = m168p
 CLOCK      = 8000000
 PROGRAMMER = -c USBasp
 OBJECTS    = main.o

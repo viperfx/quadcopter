@@ -197,7 +197,7 @@ Y6
 #define ADC_GAIN_DIVIDER			200		// Gyro Value Range (-100~100: 150, -150~150: 225, -250~250: 375)
 
 // Stick Arming - enable this line to enable Stick arming
-// #define STICK_ARMING 60
+#define STICK_ARMING 60
 
 // enable this line if you don't have Yaw gyro connected
 //#define EXTERNAL_YAW_GYRO
